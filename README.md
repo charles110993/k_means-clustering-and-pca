@@ -1,2 +1,1 @@
-# k_means-clustering-and-pca
-Assessment 2
+implementation of the K-Means Clustering and Principal Component Analysis (PCA) algorithms from scratch using only Numpy, Pandas, and Matplotlib, without relying on any existing library implementations.
